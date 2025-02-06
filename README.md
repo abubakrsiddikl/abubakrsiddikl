@@ -81,7 +81,8 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddikl&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Abu Bakr Siddik's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddikl&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&cache_seconds=1800&token=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" />
+
 </p>
 
 ## 🏆 GitHub Streaks
