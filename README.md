@@ -75,8 +75,6 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
   <a href="mailto:limonsk026@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-  </a>
 </p>
 
 
