@@ -94,6 +94,24 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 [![](https://visitcount.itsvg.in/api?id=abubakrsiddikl&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddikl&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Abu Bakr Siddik's GitHub Stats" />
+</p>
+
+## 🏆 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddikl&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🏅 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddikl&langs_count=8&theme=radical" alt="Most Used Languages" />
+</p>
+
 
 
 
