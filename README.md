@@ -62,18 +62,19 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 ---
 ## 🌍 Connect with Me  
 
-<a href="[https://github.com/your-username](https://github.com/abubakrsiddikl)" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/abubakrsiddikl" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/pentestersiddik371/)`" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/pentestersiddik371/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="[https://twitter.com/your-twitter-handle](https://x.com/Abu15443Bakr)" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/Abu15443Bakr" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="mailto:limonsk026@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 
 
 
