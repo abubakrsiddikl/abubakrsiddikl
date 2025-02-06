@@ -103,8 +103,9 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 ## 🏆 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddikl&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddikl&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 ## 🏅 Most Used Languages
 
