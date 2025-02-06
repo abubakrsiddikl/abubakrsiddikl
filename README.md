@@ -4,11 +4,6 @@
 
 Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializing in building user-friendly, interactive, and scalable web applications. I have hands-on experience with both front-end and back-end development, and I'm always eager to learn and explore new technologies.
 
-## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/limon.hosen.77582) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pentestersiddik371/) 
-[![X (formerly Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abu15443Bakr) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:limonsk026@gmail.com)
 
 ## 🚀 Technical Skills  
 
@@ -65,6 +60,13 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 - 📚 Improving performance optimization techniques and back-end architecture 
 
 ---
+## 🌐 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/limon.hosen.77582) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pentestersiddik371/) 
+[![X (formerly Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abu15443Bakr) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:limonsk026@gmail.com)
+
+
 ## 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -94,20 +96,7 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 [![](https://visitcount.itsvg.in/api?id=abubakrsiddikl&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🌍 Connect with Me  
 
-<a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
