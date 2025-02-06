@@ -31,10 +31,11 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 #### **Development Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)  
-![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) 
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+
 
 ---
 ## 💻 Tech Stack
