@@ -62,33 +62,21 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 ---
 ## 🌍 Connect with Me  
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<p align="center">
+  <a href="https://github.com/abubakrsiddikl" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/pentestersiddik371/" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Abu15443Bakr" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter-circled.png" width="40px" alt="Twitter">
+  </a>
+  <a href="mailto:limonsk026@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" width="40px" alt="Email">
+  </a>
+</p>
 
-<a href="https://github.com/abubakrsiddikl" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="width: 50px; height: 50px; border-radius: 50%; background-color: #24292F; display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28px" style="filter: invert(100%);">
-  </div>
-</a>
-
-<a href="https://www.linkedin.com/in/pentestersiddik371/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="width: 50px; height: 50px; border-radius: 50%; background-color: #0A66C2; display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28px" style="filter: invert(100%);">
-  </div>
-</a>
-
-<a href="https://x.com/Abu15443Bakr" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="width: 50px; height: 50px; border-radius: 50%; background-color: #1DA1F2; display: flex; justify-content: center; align-items: center;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter-circled.png" alt="Twitter" width="28px">
-  </div>
-</a>
-
-<a href="mailto:limonsk026@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="width: 50px; height: 50px; border-radius: 50%; background-color: #D14836; display: flex; justify-content: center; align-items: center;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Email" width="28px">
-  </div>
-</a>
-
-</div>
 
 
 
