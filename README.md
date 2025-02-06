@@ -72,7 +72,7 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
   <a href="https://twitter.com/Abu15443Bakr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:limonsk026@gmail.com">
+  <a href="limonsk026@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
