@@ -1,5 +1,9 @@
 ![Banner](https://i.ibb.co/wFPFwZZp/limon-banner-github.png)
 
+## 👨‍💻 About Me  
+
+Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializing in building user-friendly, interactive, and scalable web applications. I have hands-on experience with both front-end and back-end development, and I'm always eager to learn and explore new technologies.
+
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/limon.hosen.77582) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pentestersiddik371/) 
