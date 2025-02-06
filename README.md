@@ -31,11 +31,18 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 #### **Development Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) 
-![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat&logoColor=white) 
-![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+</a>
+<a href="https://tanstack.com/query" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logoColor=white" alt="TanStack Query"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+</a>
 
 ---
 ## 💻 Tech Stack
