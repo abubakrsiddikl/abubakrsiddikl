@@ -4,12 +4,6 @@
 
 Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializing in building user-friendly, interactive, and scalable web applications. I have hands-on experience with both front-end and back-end development, and I'm always eager to learn and explore new technologies.
 
-### 🚀 Current Activities  
-- 🔍 Exploring **Next.js** to enhance server-side rendering and SEO for web applications  
-- 🌐 Building a **Matrimony Web Application** with dynamic biodata creation and user authentication  
-- 💡 Refining **API integration** strategies to enhance front-end and back-end communication  
-- 📚 Improving performance optimization techniques and back-end architecture  
-
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/limon.hosen.77582) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pentestersiddik371/) 
@@ -64,6 +58,11 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializi
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
 </a>  
 
+### 🔭 Current Activities  
+- 🔍 Exploring **Next.js** to enhance server-side rendering and SEO for web applications  
+- 🌐 Building a **Matrimony Web Application** with dynamic biodata creation and user authentication  
+- 💡 Refining **API integration** strategies to enhance front-end and back-end communication  
+- 📚 Improving performance optimization techniques and back-end architecture 
 
 ---
 ## 💻 Tech Stack
