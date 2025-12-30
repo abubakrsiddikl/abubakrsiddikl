@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 
-Hello! I'm **Abu Bakr Siddik**, a passionate **Junior Web Developer** specializing in building user-friendly, interactive, and scalable web applications. I have hands-on experience with both front-end and back-end development, and I'm always eager to learn and explore new technologies.
+Hello! I'm **Abu Bakr Siddik**, a passionate **Fullstack Developer** specializing in building user-friendly, interactive, and scalable web applications. I have hands-on experience with both front-end and back-end development, and I'm always eager to learn and explore new technologies.
 
 
 ## 🚀 Technical Skills  
