@@ -49,7 +49,7 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Fullstack Developer** specializin
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddikl&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&cache_seconds=1800&token=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" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-seven-22.vercel.app?user=abubakrsiddikl&theme=transparent" alt="GitHub Streak" /></a>
 
 </p>
 
