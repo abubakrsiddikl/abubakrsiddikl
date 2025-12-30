@@ -63,7 +63,8 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Fullstack Developer** specializin
 ## 🏅 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddikl&langs_count=8&theme=radical" alt="Most Used Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-seven-22.vercel.app?user=abubakrsiddikl&langs_count=8&theme=transparent&card_width=800" alt="GitHub Streak" /></a>
+  
 </p> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
