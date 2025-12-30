@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/wFPFwZZp/limon-banner-github.png)
+![Banner]([https://i.ibb.co/wFPFwZZp/limon-banner-github.png](https://www.canva.com/design/DAGeTOZFmh0/B0c_qlmlJeQIUgMCqjMmog/view?utm_content=DAGeTOZFmh0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0f27b89fb3))
 
 ## 👨‍💻 About Me  
 
