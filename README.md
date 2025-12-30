@@ -51,22 +51,21 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Fullstack Developer** specializin
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddikl&show_icons=true&count_private=true&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api?username=abubakrsiddikl&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&cache_seconds=1800&token=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" />
+
 </p>
 
 ## 🏆 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddikl&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakrsiddikl&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 
 ## 🏅 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddikl&langs_count=8&theme=radical&layout=compact" alt="Most Used Languages" />
-</p>
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrsiddikl&langs_count=8&theme=radical" alt="Most Used Languages" />
+</p> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
