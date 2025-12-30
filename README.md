@@ -24,21 +24,6 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Fullstack Developer** specializin
 🛠️ Development Tools <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a> <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/> </a> <a href="https://tanstack.com/query" target="_blank"> <img src="https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/> </a> </p>
 ---
-
-### 🛠️ **Development Tools**  
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-</a>
-<a href="https://tanstack.com/query" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logoColor=white" alt="TanStack Query"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-</a>  
-
 ### 🔭 Current Activities  
 - 🔍 Exploring **Next.js** to enhance server-side rendering and SEO for web applications  
 - 🌐 Building a **Matrimony Web Application** with dynamic biodata creation and user authentication  
