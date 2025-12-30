@@ -37,13 +37,11 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Fullstack Developer** specializin
   <a href="https://github.com/abubakrsiddikl" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/pentestersiddik371/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/abubakrsiddik-dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Abu15443Bakr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
- <a href="mailto:limonsk026@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you.">
+  
+ <a href="mailto:abubakrsiddik.dev@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect%20with%20you.">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
