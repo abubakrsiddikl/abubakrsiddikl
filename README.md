@@ -58,12 +58,6 @@ Hello! I'm **Abu Bakr Siddik**, a passionate **Fullstack Developer** specializin
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-seven-22.vercel.app?user=abubakrsiddikl&langs_count=8&theme=transparent&card_width=800" alt="GitHub Streak" /></a>
   <p align="center">
-
-  <img src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api?username=abubakrsiddikl&show_icons=true&theme=radical" height="170" />
-
-  <img src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api/top-langs/?username=abubakrsiddikl&layout=compact&theme=radical" height="170" />
-
-</p>vvvvv
 </p> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
