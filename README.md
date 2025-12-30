@@ -1,4 +1,4 @@
-![Banner]([https://i.ibb.co.com/0R40dB5k/Screenshot-from-2025-12-30-10-33-00.png](https://www.canva.com/design/DAGeTOZFmh0/Ec8jYzh2bgnlfnFGe6A09g/edit?utm_content=DAGeTOZFmh0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Banner](https://i.ibb.co.com/LXg0p3Yy/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
 
 ## 👨‍💻 About Me  
 
